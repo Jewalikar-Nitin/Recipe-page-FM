@@ -24,7 +24,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding-block: 5rem;
+    padding-block: 3rem;
     
 }
 .recipe-palet{
@@ -32,7 +32,7 @@ main{
     background-color: var(--White);
     display: flex;
     flex-direction: column;
-    padding: 1rem;
+    padding: 0.5rem;
     border-radius: 10px;
 
     img{
@@ -47,7 +47,7 @@ h1{
 }
 p{
     font-size: 0.75rem;
-    margin:1rem 0;
+    margin:0.5rem 0;
 }
 ul,ol{
     padding-left: 1.3rem;
@@ -80,15 +80,15 @@ ul,ol{
     font-size: 1.25rem;
 }
 .ingredients{
-    padding-block: 1rem;
+    padding-block: 0.5rem;
     border-bottom:1px solid var(--Stone-100) ;
 }
 .instructions{
-    padding-block: 1rem;
+    padding-block: 0.5rem;
     border-bottom:1px solid var(--Stone-100) ;
 }
 .nutrition{
-    padding-block: 1rem;
+    padding-block: 0.5rem;
 }
 table{
     width: 100%;
